@@ -1,0 +1,3 @@
+Aplicativo exclusivamente mobile.
+Disponível em IOS e Android.
+Onde a fonte é back  end se escristas em Python.

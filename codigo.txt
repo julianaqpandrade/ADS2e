@@ -1,0 +1,1 @@
+Código deverá ser escrito em Python com toda documentaçãonecessária para eventuais correções futuras.

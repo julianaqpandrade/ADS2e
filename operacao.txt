@@ -1,0 +1,3 @@
+Implementar um sistema orientado a objetos.
+Onde as classes seram pessoas, viagens e carros.
+Elaboração de um sistema de testes para as três classes.
